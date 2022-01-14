@@ -11,17 +11,25 @@ instructions to run your code
 		
 3-Create a Python virtual environment and install dependencies:
 		python -m venv venv
+		
+		
 		source venv/bin/activate
+		
+		
 		pip install --upgrade pip
+		
+		
 		pip install -r requirements.txt
 		
 		
 4-make migrations
 		python3 manage.py makemigrations
+		
 		python3 manage.py migrate
 		
 		
 5-create superuser (username, email, password, confirm-password)
+		
 		python3 manage.py createsuperuser
 		
 ***********************************************************************************
