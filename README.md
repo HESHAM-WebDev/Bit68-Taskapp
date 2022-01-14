@@ -1,3 +1,15 @@
+Django Rest framework with PostgreSQL database
+      - User registration
+      
+      - User login
+      
+      - Each user could create multiple products and get them
+      
+      - All users could retrieve products data
+
+
+
+
 instructions to run your code
 *****************************
 
