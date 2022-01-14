@@ -24,7 +24,14 @@ instructions to run your code
 5-create superuser (username, email, password, confirm-password)
 		python3 manage.py createsuperuser
 		
+***********************************************************************************
+1-postgres database docker container used as main database
 
+2- flake8 use as a linter
+
+3- pytest used instead of django autotest
+
+4-api collection created
 	
 		
 		
